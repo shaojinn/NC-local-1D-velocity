@@ -1,4 +1,8 @@
-This is the archive of 1D velocity models by Chin et al (2025).
+## NC-local-1D-velocity
+
+This is the archive of 1D velocity models derived from local earthquakes and from Rayleigh wave dispersion curves by Chin et al (2025).
+
+## Table of contents
 
 [velocity1D.txt](velocity.txt)- Updated 1D Vp and Vs models using local earthquakes in southern New Caledonia.
 
