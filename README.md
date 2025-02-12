@@ -1,5 +1,7 @@
 ## NC-local-1D-velocity
 
+Local 1D velocity models for New Caledonia. 
+
 This is the archive of 1D velocity models derived from local earthquakes and from Rayleigh wave dispersion curves by Chin et al (2025).
 
 ## Table of contents
